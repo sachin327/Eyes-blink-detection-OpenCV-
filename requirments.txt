@@ -1,0 +1,7 @@
+PIL
+numpy
+matplotlib
+keras
+sklearn
+glob
+tensorflow
